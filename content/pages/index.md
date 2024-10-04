@@ -62,7 +62,7 @@ sections:
         label: HTML e CSS
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Photoshop
         url: ''
       - type: Label
         label: Next.js
