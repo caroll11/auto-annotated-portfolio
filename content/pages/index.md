@@ -80,7 +80,7 @@ sections:
           - pt-36
           - pb-36
           - pl-4
-          - pr-28
+          - pr-72
         justifyContent: center
       title:
         textAlign: left
