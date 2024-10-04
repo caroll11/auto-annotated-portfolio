@@ -59,7 +59,7 @@ sections:
         label: HTML e CSS
         url: ''
       - type: Label
-        label: React
+        label: 3DS MAX
         url: ''
       - type: Label
         label: Photoshop
