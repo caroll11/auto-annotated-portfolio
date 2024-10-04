@@ -66,7 +66,7 @@ sections:
         url: ''
       - type: Label
         label: Next.js
-        url: ''
+        url: Photoshop
       - type: Label
         label: Netlify
         url: ''
