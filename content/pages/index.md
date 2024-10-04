@@ -152,7 +152,7 @@ sections:
           name: message
           label: Fale-me sobre seu projeto
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Fale-me sobre seu projeto
           width: full
           isRequired: true
         - type: CheckboxFormControl
