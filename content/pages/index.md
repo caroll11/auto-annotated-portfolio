@@ -51,44 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projetos realizados
   - type: LabelsSection
     title: competências técnicas
     subtitle: ''
@@ -127,6 +89,44 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - colors: colors-f
+    type: FeaturedProjectsSection
+    elementId: ''
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-end
+    subtitle: Projetos realizados
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
