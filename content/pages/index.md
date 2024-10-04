@@ -53,7 +53,7 @@ sections:
       elementId: ''
   - type: LabelsSection
     title: competências técnicas
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: PHP
