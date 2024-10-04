@@ -128,7 +128,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projetos realizados
   - type: ContactSection
-    title: Contact Me
+    title: Contate-me
     text: I'm look forward to hearing from you.
     form:
       type: FormBlock
