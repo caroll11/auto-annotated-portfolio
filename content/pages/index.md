@@ -67,9 +67,6 @@ sections:
       - type: Label
         label: Javascript
         url: Photoshop
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
