@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: "carolina, estudante\_ de técnico de gestão de sistemas informáticos"
-    subtitle: Sou estudante de técnico de Gestão de Sístemas Informáticos
+    subtitle: 'Sou estudante do 3º ano '
     styles:
       self:
         height: auto
