@@ -59,7 +59,7 @@ sections:
         label: PHP
         url: ''
       - type: Label
-        label: React
+        label: HTML e CSS
         url: ''
       - type: Label
         label: Microsoft Office
