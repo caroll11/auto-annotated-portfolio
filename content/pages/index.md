@@ -52,7 +52,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: LabelsSection
-    title: Skills
+    title: competências técnicas
     subtitle: The section subtitle
     items:
       - type: Label
