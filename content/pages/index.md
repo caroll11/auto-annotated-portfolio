@@ -71,7 +71,7 @@ sections:
         label: 3DS MAX
         url: ''
       - type: Label
-        label: Pancakes
+        label: C++
         url: ''
       - type: Label
         label: C++
