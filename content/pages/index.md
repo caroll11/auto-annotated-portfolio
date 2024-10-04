@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
