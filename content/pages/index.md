@@ -83,7 +83,7 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - mr-6
+          - mr-0
       title:
         textAlign: left
       subtitle:
