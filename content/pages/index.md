@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-d
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/istockphoto-695100728-612x612.jpg
