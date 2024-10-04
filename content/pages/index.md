@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/pexels-photo-2156881.webp
+  url: /images/White-Gradients.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
