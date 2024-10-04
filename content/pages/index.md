@@ -138,7 +138,7 @@ sections:
           name: name
           label: Nome
           hideLabel: true
-          placeholder: Your name
+          placeholder: Seu nome
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
