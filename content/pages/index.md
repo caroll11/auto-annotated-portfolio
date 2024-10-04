@@ -62,7 +62,7 @@ sections:
         label: React
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: HTML e CSS
         url: ''
       - type: Label
         label: Photoshop
