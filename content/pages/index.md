@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 71
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-c
     backgroundSize: full
     title: carolina pereira
     subtitle: >-
