@@ -4,7 +4,7 @@ title: Home
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/White-Gradients.jpg
+  url: /images/istockphoto-695100728-612x612.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
