@@ -4,7 +4,9 @@ title: Projeto PC Dream
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: 'Trabalho desenvolvido em grupo de 7 pessoas, em que consiste '
+description: >-
+  Trabalho desenvolvido em grupo de 7 pessoas, em que consiste na criação de uma
+  página web
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
