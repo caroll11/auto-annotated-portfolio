@@ -160,7 +160,7 @@ sections:
           label: Receber notificação
           width: full
           isRequired: 'false'
-      submitLabel: Send Message
+      submitLabel: Mandar Mensagem
       elementId: contact-form
       styles:
         submitLabel:
