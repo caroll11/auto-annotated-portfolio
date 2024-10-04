@@ -65,7 +65,7 @@ sections:
         label: Photoshop
         url: ''
       - type: Label
-        label: Next.js
+        label: Javascript
         url: Photoshop
       - type: Label
         label: Netlify
