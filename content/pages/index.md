@@ -68,7 +68,7 @@ sections:
         label: 3DS MAX
         url: ''
       - type: Label
-        label: Netlify
+        label: C++
         url: ''
       - type: Label
         label: Pancakes
