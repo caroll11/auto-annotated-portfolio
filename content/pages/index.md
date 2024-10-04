@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/pexels-danielabsi-952670.jpg
+  url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
