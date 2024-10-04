@@ -51,44 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: LabelsSection
-    title: competências técnicas
-    subtitle: ''
-    items:
-      - type: Label
-        label: PHP
-        url: ''
-      - type: Label
-        label: HTML e CSS
-        url: ''
-      - type: Label
-        label: Photoshop
-        url: ''
-      - type: Label
-        label: 3DS MAX
-        url: ''
-      - type: Label
-        label: C++
-        url: ''
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-0
-        justifyContent: center
-        margin:
-          - mr-0
-          - ml-96
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -127,6 +89,44 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projetos realizados
+  - type: LabelsSection
+    title: competências técnicas
+    subtitle: ''
+    items:
+      - type: Label
+        label: PHP
+        url: ''
+      - type: Label
+        label: HTML e CSS
+        url: ''
+      - type: Label
+        label: Photoshop
+        url: ''
+      - type: Label
+        label: 3DS MAX
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-0
+        justifyContent: center
+        margin:
+          - mr-0
+          - ml-96
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
