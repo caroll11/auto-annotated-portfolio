@@ -6,7 +6,7 @@ date: '2021-12-20'
 client: Awesome client
 description: >-
   Trabalho desenvolvido em grupo de 7 pessoas, em que consiste na criação de uma
-  página web de vendas 
+  página web de vendas de modelos de computadores, usando o PHP
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
