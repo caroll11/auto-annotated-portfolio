@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: "carolina, estudante\_ de técnico de gestão de sistemas informáticos"
     subtitle: >-
-      Olá, Sou a Carolina sou estudante do 3º ano do curso de Técnico de Gestão
-      de Sistemas Informáticos
+      Olá, Sou a Carolina, tenho 17 anos e resido na Trofa. Sou estudante do 3º
+      ano do curso de Técnico de Gestão de Sistemas Informáticos.
     styles:
       self:
         height: auto
