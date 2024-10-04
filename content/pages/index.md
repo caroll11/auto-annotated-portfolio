@@ -129,7 +129,7 @@ sections:
     subtitle: Projetos realizados
   - type: ContactSection
     title: Contate-me
-    text: I'm look forward to hearing from you.
+    text: ''
     form:
       type: FormBlock
       title: Title of the form
