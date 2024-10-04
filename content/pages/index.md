@@ -68,9 +68,6 @@ sections:
         label: Javascript
         url: Photoshop
       - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
         label: Pancakes
         url: ''
       - type: Label
