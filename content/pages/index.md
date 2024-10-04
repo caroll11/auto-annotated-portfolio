@@ -51,39 +51,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: LabelsSection
-    title: Competências Técnicas
-    subtitle: The section subtitle
-    items:
-      - type: Label
-        label: HTML e CSS
-        url: ''
-      - type: Label
-        label: 3DS MAX
-        url: ''
-      - type: Label
-        label: Photoshop
-        url: ''
-      - type: Label
-        label: Javascript
-        url: Photoshop
-    colors: colors-f
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
