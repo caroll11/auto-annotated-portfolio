@@ -65,7 +65,7 @@ sections:
         label: Microsoft Office
         url: ''
       - type: Label
-        label: Next.js
+        label: Photoshop
         url: ''
       - type: Label
         label: Netlify
