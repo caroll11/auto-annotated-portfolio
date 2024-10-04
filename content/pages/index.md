@@ -62,7 +62,7 @@ sections:
         label: React
         url: ''
       - type: Label
-        label: Photoshop
+        label: Edição de Imagem
         url: ''
       - type: Label
         label: Next.js
