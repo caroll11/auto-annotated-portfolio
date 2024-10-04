@@ -59,7 +59,7 @@ sections:
         label: 'WEB 1, 2, 3'
         url: ''
       - type: Label
-        label: React
+        label: PHP
         url: ''
       - type: Label
         label: HTML e CSS
