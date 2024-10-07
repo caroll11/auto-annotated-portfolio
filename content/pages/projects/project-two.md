@@ -9,7 +9,7 @@ description: >-
   página web de vendas de modelos de computadores, usando o PHP.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-07 154817.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
