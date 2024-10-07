@@ -9,7 +9,7 @@ description: >-
   elaboração de um quarto em 3D utilizando o software 3DS MAX.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/quarto003render.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
