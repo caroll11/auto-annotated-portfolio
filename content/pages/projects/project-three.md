@@ -5,9 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Projeto realizado no estágio na empresa SketchPixel em que consistia na
+  elaboração de um quarto em 3D usando 
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
