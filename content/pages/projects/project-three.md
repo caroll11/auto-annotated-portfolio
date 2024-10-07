@@ -6,7 +6,7 @@ date: '2022-01-22'
 client: Awesome client
 description: >-
   Projeto realizado no estágio na empresa SketchPixel em que consistia na
-  elaboração de um quarto em 3D usando 
+  elaboração de um quarto em 3D utilizando o software 3DS MAX.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
