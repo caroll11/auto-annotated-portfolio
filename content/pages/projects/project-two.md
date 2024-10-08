@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Projeto PC Dream
-colors: colors-a
+colors: colors-b
 date: '2021-12-20'
 client: ''
 description: >-
