@@ -18,6 +18,12 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
+media:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 <div style="text-align: center">[VISUALIZAÇÃO DO PROJETO   ](https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view)||  [DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
 
