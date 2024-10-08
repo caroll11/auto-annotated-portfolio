@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Projeto realizado no estágio
 colors: colors-b
-date: '2022-01-22'
+date: '2024-03-22'
 client: ''
 description: >-
   Projeto realizado no estágio na empresa SketchPixel em que consistia na
