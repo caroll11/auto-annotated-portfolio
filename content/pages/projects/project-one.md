@@ -4,7 +4,7 @@ title: Página web - WooComerce
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: Construção de uma loja online usando o WooComerce no Wordpress.
+description: Construção de uma loja online usando o
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 154856.png
