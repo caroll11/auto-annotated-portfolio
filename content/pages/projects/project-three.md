@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Projeto realizado no estágio
-colors: colors-c
+colors: colors-b
 date: '2022-01-22'
 client: Awesome client
 description: >-
