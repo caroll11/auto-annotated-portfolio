@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Página web - WooComerce
 colors: colors-b
-date: '2024-04-15'
+date: '2024-04-16'
 client: ''
 description: Construção de uma loja online utilizando o WooComerce no Wordpress
 featuredImage:
