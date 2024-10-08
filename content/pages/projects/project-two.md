@@ -21,7 +21,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view'
+  url: 'file:///C:/Users/14379/Downloads/grupo3.mp4'
   elementId: ''
   autoplay: false
   loop: false
