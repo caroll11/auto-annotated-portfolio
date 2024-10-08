@@ -23,7 +23,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
-<div style="text-align: center">[VISUALIZAÇÃO DO PROJETO  ](https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view)||  [DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
+<div style="text-align: center">[VISUALIZAÇÃO DO PROJETO   ](https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view)||  [DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
 
 <div style="text-align: center"></div>
 
