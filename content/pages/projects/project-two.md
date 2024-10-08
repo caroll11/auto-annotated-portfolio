@@ -11,10 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-07 154817.png
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-07 154817.png
-  altText: Project image
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
