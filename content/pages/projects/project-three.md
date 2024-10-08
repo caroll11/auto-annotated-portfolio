@@ -11,10 +11,6 @@ featuredImage:
   type: ImageBlock
   url: /images/quarto003render.jpg
   altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
