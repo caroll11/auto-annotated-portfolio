@@ -20,10 +20,11 @@ backgroundImage:
   opacity: 100
 bottomSections: []
 ---
-![](/images/quarto001.jpg)
+<div style="text-align: center">**QUARTO 01**![](/images/quarto001.jpg)</div>
 
-![](/images/quarto02.jpg)
+<div style="text-align: center">**QUARTO 02**![](/images/quarto02.jpg)</div>
 
-![](/images/quarto04.jpg)
+<div style="text-align: center">**QUARTO 03**![](/images/quarto04.jpg)</div>
 
-![](/images/quarto003render.jpg)
+<div style="text-align: center">**QUARTO 04**![](/images/quarto003render.jpg)</div>
+
