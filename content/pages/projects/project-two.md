@@ -13,7 +13,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-07 154817.png
   altText: Project image
 ---
 <div style="text-align: center">[DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
