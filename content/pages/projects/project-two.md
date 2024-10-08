@@ -18,16 +18,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-media:
-  type: VideoBlock
-  title: Title of the video
-  url: 'https://vimeo.com/1017570495?share=copy'
-  elementId: ''
-  autoplay: false
-  loop: false
-  muted: false
-  controls: true
-  aspectRatio: '16:9'
 ---
 <div style="text-align: center">[VISUALIZAÇÃO DO PROJETO   ](https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view)||  [DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
 
