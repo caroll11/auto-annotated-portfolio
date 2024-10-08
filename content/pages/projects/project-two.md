@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Projeto PC Dream
 colors: colors-b
-date: '2021-12-20'
+date: '2023-03-20'
 client: ''
 description: >-
   Trabalho desenvolvido em grupo de 7 pessoas, em que consiste na criação de uma
