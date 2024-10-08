@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
