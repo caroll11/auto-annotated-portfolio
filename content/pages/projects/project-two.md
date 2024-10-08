@@ -21,7 +21,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'file:///C:/Users/14379/Downloads/grupo3.mp4'
+  url: 'https://vimeo.com/1017570495?share=copy#t=0'
   elementId: ''
   autoplay: false
   loop: false
