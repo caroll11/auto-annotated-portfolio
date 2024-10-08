@@ -4,8 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2hvdy1jZHMtd29yay5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==.webp
+  url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
