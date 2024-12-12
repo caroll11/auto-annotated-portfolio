@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot_1.png
-  altText: Project thumbnail image
+  altText: ''
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
