@@ -9,7 +9,7 @@ description: >-
   página web de vendas de modelos de computadores, usando o PHP.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-07 154817.png
+  url: /images/Screenshot_1.png
   altText: Project thumbnail image
 backgroundImage:
   type: BackgroundImage
@@ -20,7 +20,7 @@ backgroundImage:
   opacity: 100
 media:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-07 154817.png
+  url: /images/Screenshot_1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
