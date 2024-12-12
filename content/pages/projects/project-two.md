@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot_1.png
-  altText: Project thumbnail image
+  altText: ''
 backgroundImage:
   type: BackgroundImage
   url: /images/pexels-tirachard-kumtanom-112571-450055.jpg
@@ -21,8 +21,8 @@ backgroundImage:
 media:
   type: ImageBlock
   url: /images/Screenshot_1.png
-  altText: altText of the image
-  caption: Caption of the image
+  altText: ''
+  caption: ''
   elementId: ''
 ---
 <div style="text-align: center">[VISUALIZAÇÃO DO PROJETO   ](https://drive.google.com/file/d/1Hamwyg915Ky4venVa8wMjxSd8XoT-6qZ/view)||  [DOWNLOAD .ZIP](https://drive.google.com/file/d/1J5B0LnxVJZf5t5IbdRm357pxAFSdm9BD/view)</div>
